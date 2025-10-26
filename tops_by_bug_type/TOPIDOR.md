@@ -1,9 +1,7 @@
 Top IDOR reports from HackerOne:
 
 
-3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 361 upvotes, $12500
-4. [Insecure Direct Object Reference (IDOR) - Delete Campaigns  ](https://hackerone.com/reports/1969141) to HackerOne - 333 upvotes, $0
-5. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Pornhub - 266 upvotes, $1500
+
 6. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 251 upvotes, $0
 7. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to Pornhub - 248 upvotes, $1500
 8. [Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint](https://hackerone.com/reports/2487889) to HackerOne - 229 upvotes, $0
