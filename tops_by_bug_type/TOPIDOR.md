@@ -1,7 +1,6 @@
 Top IDOR reports from HackerOne:
 
-1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 761 upvotes, $10500
-2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to Nord Security - 373 upvotes, $0
+
 3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 361 upvotes, $12500
 4. [Insecure Direct Object Reference (IDOR) - Delete Campaigns  ](https://hackerone.com/reports/1969141) to HackerOne - 333 upvotes, $0
 5. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Pornhub - 266 upvotes, $1500
