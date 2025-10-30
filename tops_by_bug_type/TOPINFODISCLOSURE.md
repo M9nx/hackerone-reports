@@ -1,6 +1,6 @@
 Top Information Disclosure reports from HackerOne:
 
-1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 636 upvotes, $0
+
 2. [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/401793) to Grab - 537 upvotes, $0
 3. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
 4. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - 274 upvotes, $10000
