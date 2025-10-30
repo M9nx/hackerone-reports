@@ -1,15 +1,6 @@
 Top Information Disclosure reports from HackerOne:
 
-1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 636 upvotes, $0
-2. [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/401793) to Grab - 537 upvotes, $0
-3. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
-4. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - 274 upvotes, $10000
-5. [sdrc.starbucks.com - Information Disclosure via unsecured attachment directory](https://hackerone.com/reports/769016) to Starbucks - 197 upvotes, $0
-6. [Unauthenticated access to sensitive user information](https://hackerone.com/reports/702677) to Razer - 184 upvotes, $500
-7. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Eternal - 175 upvotes, $750
-8. [[IDOR] API endpoint leaking sensitive user information](https://hackerone.com/reports/723118) to Razer - 172 upvotes, $375
-9. [Information disclosure with sensitive data](https://hackerone.com/reports/703600) to Mail.ru - 156 upvotes, $1500
-10. [Information disclosure via a misconfigured third-party product](https://hackerone.com/reports/739251) to Algolia - 154 upvotes, $0
+
 11. [information disclosure of secret_key_base via encoding charcters](https://hackerone.com/reports/460545) to GitLab - 145 upvotes, $3500
 12. [[c-api.city-mobil.ru] Client authentication bypass leads to information disclosure](https://hackerone.com/reports/772118) to Mail.ru - 143 upvotes, $0
 13. [[Information Disclosure] Amazon S3 Bucket of Shopify Ping (iOS) have public access of other users image](https://hackerone.com/reports/1021906) to Shopify - 131 upvotes, $2900
